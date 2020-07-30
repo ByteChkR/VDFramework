@@ -1,10 +1,10 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
-using VDFramework.Extensions;
-using VDFramework.Singleton;
-using StringConverter = VDFramework.Input.JoystickButtonToStringConverter;
+using VDFramework.Standard.SharedClasses.Extensions;
+using VDUnityFramework.Standard.Singleton;
+using StringConverter = VDUnityFramework.Standard.Input.Joystick.JoystickButtonToStringConverter;
 
-namespace VDFramework.Input
+namespace VDUnityFramework.Standard.Input.Joystick
 {
 	public static class JoystickInput
 	{

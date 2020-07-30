@@ -1,8 +1,8 @@
-﻿namespace VDFramework.Singleton
-{
-	using Exceptions;
+﻿using VDFramework.Standard.SharedClasses.Exceptions;
 
-	/// <summary>
+namespace VDFramework.Standard.StandardFramework.Singleton
+{
+    /// <summary>
 	/// A abstract generic implementation of the singleton pattern
 	/// </summary>
 	/// <typeparam name="T">The type to create a singleton of</typeparam>

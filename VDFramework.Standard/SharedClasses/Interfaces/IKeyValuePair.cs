@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace VDFramework.Interfaces
+namespace VDFramework.Standard.SharedClasses.Interfaces
 {
 	public interface IKeyValuePair<TKey, TValue> : IEquatable<IKeyValuePair<TKey, TValue>>
 	{

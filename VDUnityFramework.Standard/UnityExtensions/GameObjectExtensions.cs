@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.SceneManagement;
 
-namespace VDFramework.UnityExtensions
+namespace VDUnityFramework.Standard.UnityExtensions
 {
 	public static class GameObjectExtensions
 	{

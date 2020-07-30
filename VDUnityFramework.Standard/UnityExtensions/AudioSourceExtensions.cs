@@ -2,7 +2,7 @@
 using System.Linq;
 using UnityEngine;
 
-namespace VDFramework.UnityExtensions
+namespace VDUnityFramework.Standard.UnityExtensions
 {
 	public static class AudioSourceExtensions
 	{

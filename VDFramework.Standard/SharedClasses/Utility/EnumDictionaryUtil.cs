@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using VDFramework.Extensions;
-using VDFramework.Interfaces;
+using VDFramework.Standard.SharedClasses.Extensions;
+using VDFramework.Standard.SharedClasses.Interfaces;
 
-namespace VDFramework.Utility
+namespace VDFramework.Standard.SharedClasses.Utility
 {
 	public class EnumDictionaryUtil
 	{

@@ -1,4 +1,4 @@
-﻿namespace VDFramework.SharedClasses.Extensions
+﻿namespace VDFramework.Standard.SharedClasses.Extensions
 {
 	public static class Int32Extentions
 	{

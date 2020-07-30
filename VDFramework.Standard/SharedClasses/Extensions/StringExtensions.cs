@@ -1,4 +1,4 @@
-﻿namespace VDFramework.Extensions
+﻿namespace VDFramework.Standard.SharedClasses.Extensions
 {
 	public static class StringExtensions
 	{

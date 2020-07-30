@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace VDFramework.UnityExtensions
+namespace VDUnityFramework.Standard.UnityExtensions
 {
 	public static class ColorExtensions
 	{

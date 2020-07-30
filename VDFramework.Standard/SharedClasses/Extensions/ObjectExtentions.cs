@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace VDFramework.Extensions
+namespace VDFramework.Standard.SharedClasses.Extensions
 {
 	public static class ObjectExtentions
 	{

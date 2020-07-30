@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace VDFramework.Extensions
+namespace VDFramework.Standard.SharedClasses.Extensions
 {
 	public static class EnumExtensions
 	{
